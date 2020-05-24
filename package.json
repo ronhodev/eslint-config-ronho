@@ -1,19 +1,15 @@
 {
   "name": "eslint-config-ronho",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom ESLint Config from Ronnie Ho",
-  "keywords": [
-    "javascript",
-    "eslint",
-    "lint",
-    "config"
-  ],
+  "keywords": ["javascript", "eslint", "lint", "config"],
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
-  "author": "Ronnie Ho",
+  "repository": "git@github.com:ronhodev/eslint-config-ronho.git",
+  "author": "Ronnie Ho <64434055+ronhodev@users.noreply.github.com>",
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^10.1.0",
