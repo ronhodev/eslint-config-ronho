@@ -8,7 +8,7 @@ My preferences for ESLint
 Install:
 
 ```bash
-npx install-peerdeps --dev eslint-config-wesbos
+npx install-peerdeps --dev eslint-config-ronho
 ```
 
 Add to `.eslintrc`:
